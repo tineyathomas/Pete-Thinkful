@@ -28,7 +28,7 @@ body {
   color: #003049;
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
   padding: 40px;
-  background-color: #eae2b7;
+  background-color: #eae2b7; width: 600px; margin: auto;
 }
 
 /* Set the font family for any h1, h2, or h3 heading */
@@ -41,7 +41,6 @@ h3 {
 }
 
 article { 
-  text-align: center;
   padding: 50px 0;
 }
 
@@ -80,3 +79,5 @@ a:link    { color: #d62828;  }
 a:visited { color: red;   }
 a:hover   { color: #f77f00; }
 a:active  { color: pink;  }
+
+footer {text-align: center; }

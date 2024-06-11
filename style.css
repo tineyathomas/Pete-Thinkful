@@ -25,16 +25,16 @@ header nav ul li a {
 }
 
 body {
-  color: #003049;
+  color: #eae2b7;
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
   padding: 40px;
   background-color: #eae2b7;
 }
 
 /* Set the font family for any h1, h2, or h3 heading */
-h1, {font-family: "Playfair Display", Times, serif;
+h1 {font-family: "Playfair Display", Times, serif;
     text-align: center;}
-h2,  {font-family: "Playfair Display", Times, serif;
+h2  {font-family: "Playfair Display", Times, serif;
   text-align: center;}
 h3 {
   font-family: "Playfair Display", Times, serif; text-align: center;
